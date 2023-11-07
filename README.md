@@ -3,7 +3,7 @@ In this module, brute force “transliteration” of consonants is used to compa
 and match Tajik-Persian text strings:
 
 ```py
-pip import match
+import match
 
 >>>tg = 'Фориғ зи умеди раҳмату бими азоб'
 >>>fa = 'فارغ ز امید رحمت و بیم عذاب'
